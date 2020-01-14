@@ -1,0 +1,3 @@
+commit:nos permite cometer los cambios que hamos hecho,.
+push: sube los cambios a nuestro repositorio.
+pull: nos permite descargar los cambios hechos en el repo.

@@ -1,0 +1,31 @@
+/*modelo de caja*/
+div{
+width:80%;
+height:399px;
+background: lime;
+
+}
+
+/*ancho del medio de los parrafos y ancho de los lados*/
+p{margin:20px 50px;
+
+}
+
+/*espacio entre titulo y parrafo*/
+p{
+    padding: 30px;
+}
+
+/*colocar border*/
+div{
+border-style: dashed;
+border:10px solid black;
+
+}
+
+/*para ponerlo uno al lado del otro*/
+p{ display: inline-block;
+    
+}
+
+

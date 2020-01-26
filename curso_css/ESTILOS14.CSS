@@ -1,0 +1,76 @@
+*{
+    margin: 0xp;
+    padding: 0px;
+
+}
+
+body{
+    background: rgba(96, 107, 96, 0.342);
+}
+header,.main,footer{
+background: honeydew;
+width: 90%;
+max-width: 1000px;
+margin: 20px;
+
+}
+
+header nav{
+ background: lightseagreen;
+overflow: hidden;
+}
+
+header nav ul{
+    list-style: none;
+}
+
+header nav ul li{
+    float: left;
+}
+
+header nav ul li a{
+padding: 10px 20px;
+display: block;
+color: linen;
+text-decoration:none ;
+
+}
+
+header nav ul li a:hover{
+background: rgb(25, 86, 90);
+}
+
+.main .articles{
+width: 76.5%;
+float: left;
+background: rgba(246, 246, 241, 0.856);
+margin-right:1.5% ;
+}
+footer{
+    float: left;
+background: black;
+color: blanchedalmond;
+text-align:center ;
+padding:7px ;
+    /*posicion del footer*/
+    
+    {
+
+}
+
+}
+aside{
+width: 22%;
+float: left;
+background: rgb(246, 113, 4);
+color: cornsilk;
+}
+
+
+
+.main .articles article{
+padding: 20px;
+background: darkgray;
+margin-bottom: 20px;
+
+}

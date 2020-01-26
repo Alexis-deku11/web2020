@@ -1,0 +1,19 @@
+/*colocar color o imagen de fondos*/
+
+body{
+background: url(https://lh3.googleusercontent.com/KwuFLzhjlm_48vzU7UcF5SvO9ADkxmAvqe3qYiNd7DsurwBHMmL8FqMJ4ugWaJCwxw17GV-BVZdK0Inpess-hVXR9i3TEp8lKg3w_xnqoDzr7BWNv5TTkWFIjWy90GX2_hyBAlacBWVId-K4pemnq0jqpYZArU3mbL61ScZtlElX6Yl4Pb_Yn_DkDYrf230KnlldJRb2EF3gel19PcKURBWi-k1gt8flpsE_SPhxH9rxY78is-UMXWouuDxJhKHS9jYd3VPo46TA6VXZ8vyCwKxC6VGuklBSUWq6aOUJqMhap-ZCUA2NNeIe8w5pA6GiEaTulKajQnRST8gYXhyhkPjjCMoZJDONSckNsdSzs_YMNIydQPq87CvL-C0XoRDHwRv4ybFTfgtQ4gtvYdktz03xnkv221XGGlLbN3Jr9HIIqup6NQfQuqEkd-CJ96XsN3a5kWsLy0_b7ZmPJmTS1cDaFuUxlWJmTNcZ0HezOtxDWOHXP1ZZfkPqF1bjTo0YpLi0pk7aGmetV1rB-g-Lxni6lsdbzkyLhNZizlGQr7AklW7RAgK4gfUpKjh8qd521ez0VpjtSW9CU2OEVZM4IJvCpXMITdXrd9NonHpTCCw36p9Nm6NocV7XOq5_KIyPh7mGA_TbUubAxYwy3IORJzZcFoqf1M--5bMfXbJntcV2WkdoNjHSiA=w592-h598-no);
+/*no repetir fondo*/
+background-repeat:no-repeat ;
+/*solo repetir orisontal*/
+background-repeat: repeat-x;
+color: rgb(251, 247, 7);
+/*fondo arreglado*/
+background-attachment: fixed;
+/*para posicionar la imagen donde deseo*/
+background-position:center 0;
+}
+ 
+/*color o fondo a un  div o parrafo o lo que sea*/
+div{
+background: black;
+}

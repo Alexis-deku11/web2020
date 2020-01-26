@@ -1,0 +1,28 @@
+/*tipografia de letras*/
+p{
+  font-family: verdana, Arial, Helvetica, sans-serif;
+  /*tamno de letra*/
+   font-size:15px ;  
+   font-weight: bold;
+   /*alinear texto centro, izquierda etc*/
+   text-align: center;
+   /*interlineado*/
+   line-height:20px ;
+   /*para poner una dercoracion a las letrAS*/
+   text-decoration:overline ;
+   /* para poner las letras en mayusculas o minusculas*/
+   text-transform: none;
+   /*agrar sombra al texto*/
+   text-shadow: 1px 1px 1px black;
+}
+
+
+/*listas*/
+ul{list-style-type:square ;
+
+  list-style:inside ;
+}
+
+ol{
+list-style-type:upper-latin ;
+}

@@ -1,0 +1,10 @@
+/*posicion de cajas*/
+div{
+width: 100px;
+height: 100px;
+color: blanchedalmond;
+font-size:30px;
+background:aqua;
+/*localiza las cajas en una direecion*/
+float:left ;
+}

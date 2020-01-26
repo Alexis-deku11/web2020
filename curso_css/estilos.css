@@ -1,0 +1,39 @@
+
+/*como cambiar el color al fondo del cuerpo y al color de las letras */
+body{
+    background: black;
+    color: blanchedalmond;
+}
+
+/*cambiarle el color a los titulos*/
+h1,h2{
+    color: forestgreen;
+}
+
+/*cambiar el tamaNo del titulo*/
+h1{
+font-size:30px ;
+}
+
+/*cambiarle el color al parrafo*/
+p{ 
+color: ghostwhite;
+}
+
+/*cambiar color de los enlaces*/
+p a {font-size:20px ;
+    color: green;
+}
+
+ /*darle color y tamaNo a un parrafo en espersifico*/
+div{ 
+     background:green;
+color: darkorange;
+width:80%;
+ }
+
+ /* cambiar el color  buscando la pagina color html*/
+h1{
+    color:rgba(#23331B) ;
+}
+

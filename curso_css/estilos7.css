@@ -1,0 +1,20 @@
+/*formularios*/
+form{width:100% ;
+border: solid lime;
+margin:20px ;
+padding: 20px;
+
+}
+
+label{font-size: 12px;
+    display:block ;
+width: 100;
+
+}
+
+input, textarea{
+    margin-bottom:20px ;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,41 @@
+
+*{
+margin: 0px;
+padding:0px ;
+}
+
+body{
+    background: center;
+    background:rgb(127, 133, 130);
+    color: cornsilk;
+    
+}
+
+p{
+margin: 20px 50px;
+font-family: verdana, Arial, Helvetica, sans-serif;
+line-height:20px ;
+}
+
+div p{background:black ;
+    
+}
+
+ul li a{list-style-type:square ;
+ color: black;
+}
+div img{ 
+background: rgb(21, 49, 21);
+height: auto;
+width:100px;
+margin: auto;
+border-radius: 50%;
+}
+
+form{width:100% ;
+    border: solid rgb(0, 0, 0);
+    margin:20px ;
+    padding: 20px;
+
+    }
+    

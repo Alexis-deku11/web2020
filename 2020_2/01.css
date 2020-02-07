@@ -1,0 +1,31 @@
+*{padding: 0%;
+    
+
+}
+
+
+h1 span{ color: blue;
+
+}
+
+p span{
+background-color: dimgrey;
+}
+
+ {
+    background-image: url(https://media.giphy.com/media/YWB6Hi29vA3jG/giphy.gif) ;
+background-repeat:repeat-x;
+color: lime;
+}
+p {
+    background-image: url(https://giffiles.alphacoders.com/209/209221.gif);
+background-repeat: repeat-y;
+ font-weight: 100;
+ align-self:40%;
+}
+
+span{
+background-image: url(https://giffiles.alphacoders.com/209/209220.gif);
+background-repeat: repeat-x;
+
+}

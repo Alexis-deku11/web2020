@@ -1,77 +1,75 @@
 #titulo {
-    color: cadetblue;
+  color: cadetblue;
 }
 
 p strong {
-    color: red;
+  color: red;
 }
 
 span.destacado {
-    color: orange;
+  color: orange;
 }
 
 #subtitulo {
-    color: blue;
+  color: blue;
 }
 
 a {
-    color: red;
+  color: red;
 }
 
 a em {
-    color: blue;
+  color: blue;
 }
 
 span.especial {
-
-    color: purple;
+  color: purple;
 }
 
 caption {
-    color: blue;
+  color: blue;
 }
 
 .especial {
-    color: orange;
-
+  color: orange;
 }
 
 td {
-    color: green
+  color: green;
 }
 
 td strong {
-
-    color: orange;
+  color: orange;
 }
 
 th {
-    color: red;
+  color: red;
 }
 
 body {
-    margin-left: 3cm;
-    margin-right: 3cm;
+  margin-left: 3cm;
+  margin-right: 3cm;
 }
 
 table {
-    border-collapse: collapse;
+  border-collapse: collapse;
 }
 
 table,
 th,
 td {
-    border: 2px solid black;
+  border: 2px solid black;
+  padding: 8px;
 }
 
 #adicional {
-    color: olive;
+  color: olive;
 }
 
 span#especial {
-    color: purple;
+  color: purple;
 }
 
 p a {
-    color: green;
+  color: green;
 }

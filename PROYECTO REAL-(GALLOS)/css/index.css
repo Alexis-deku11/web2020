@@ -1,7 +1,18 @@
   /*index*/
   *{margin: 0px; padding: 0px;}
+/* imagen*/
+ header{
+    background-image: url(../imagenes/movil.jpg);
+    background: cover;
+    background-repeat: no-repeat;
+    background-size: 100%auto;
+}
 
-body{ background: #fffffa;}
+/*fondo del formulario*/
+form{ background-image:../;
+
+}
+
 
 header{ width: 100%;
 overflow: hidden;

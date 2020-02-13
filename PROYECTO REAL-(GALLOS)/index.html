@@ -8,10 +8,12 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
     <!--cabesa-->
-    <header>
+    <header class="header">
+        <div class="logo"></div>
 <ul class="nav nav-pills nav-fill">
     <li class="nav-item">
         <a class="nav-link active" href="index.html">inicio</a>
@@ -76,11 +78,38 @@
                       <input type="submit" value="Iniciar sesión" class="btn btn-primary btn-lg btn-block">
                   </div>
 
+                  
+                  <!--botones de facebook,google etc-->
+                  <div class="form-group">
+    <p>
+        <a class="btn btn-primary" data-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1"><i class="fa fa-facebook-official" aria-hidden="true"></i>iniciar con facebook</a>
+        <button class="btn btn-danger" type="button" data-toggle="collapse" data-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2"><i class="fa fa-google-plus-square" aria-hidden="true"></i> iniciar con google</button>
+        <button class="btn btn-info" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2"><i class="fa fa-twitter-square" aria-hidden="true"></i>iniciar con twiter</button>
+      </p>
+      <div class="row">
+        <div class="col">
+          <div class="collapse multi-collapse" id="multiCollapseExample1">
+            <div class="card card-body">
+             
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="collapse multi-collapse" id="multiCollapseExample2">
+            <div class="card card-body">
+             
+            </div>
+          </div>
+        </div>
+      </div>
+      
+</div>
 
               </form>
           </div>
       </div>
       </div>
+
      
 </section>
 

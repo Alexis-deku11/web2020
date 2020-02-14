@@ -1,0 +1,7 @@
+video {
+    max-width: 90%;
+    height:10%;}
+
+    /*botones cuando paso el maus*/
+    header ul a:hover{background-color: chocolate;
+        border-radius: 50px;}

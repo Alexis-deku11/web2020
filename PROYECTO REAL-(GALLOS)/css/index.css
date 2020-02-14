@@ -40,7 +40,8 @@ header nav a{  display: inline-block;
     line-height: normal;
     font-size: 20px;}
 
-    header nav a:hover{background-color: chocolate;
+//*botones cuando pso el maus*/
+    header ul a:hover{background-color: chocolate;
 border-radius: 50px;}
 
 /*herder permanente*/
@@ -55,4 +56,11 @@ height: 100px;
  .header1 nav{
      line-height: 100px;
  }
+/*forna del foder*/
+ footer{
+    float: left;
+background: black;
+color: blanchedalmond;
+text-align:center ;
+padding:7px ;
 

@@ -74,3 +74,7 @@ background: darkgray;
 margin-bottom: 20px;
 
 }
+
+/*botones cuando paso el maus*/
+header ul a:hover{background-color: chocolate;
+    border-radius: 50px;}

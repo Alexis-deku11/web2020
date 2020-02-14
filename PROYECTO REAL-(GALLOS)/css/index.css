@@ -2,28 +2,23 @@
   *{margin: 0px; padding: 0px;}
 /* imagen*/
  header{
+     
+
     background-image: url(../imagenes/movil.jpg);
     background: cover;
     background-repeat: no-repeat;
     background-size: 100%auto;
 }
-
 /*fondo del formulario*/
-form{ background-image:../;
+form{.... }
 
-}
 
 
 header{ width: 100%;
 overflow: hidden;
-background-color: black;
+background-color: rgb(12, 12, 12);
 margin-bottom: 20px;
 }
-
- .wrapper{ width: 90px;
-    max-width: 1000px;
-    margin: auto;
-    overflow: hidden;}
 
  header .logo{ color: blanchedalmond;
      font-size: 50px;
@@ -40,27 +35,21 @@ header nav a{  display: inline-block;
     line-height: normal;
     font-size: 20px;}
 
-//*botones cuando pso el maus*/
+//*botones cuando paso el maus*/
     header ul a:hover{background-color: chocolate;
 border-radius: 50px;}
 
-/*herder permanente*/
-.header1 {position: fixed;
-height: 100px;
-}
- .header1 .logo{
-     line-height: 100px;
-     font-size: 30px;
- }
 
- .header1 nav{
-     line-height: 100px;
+ 
+
+
  }
 /*forna del foder*/
  footer{
-    float: left;
-background: black;
-color: blanchedalmond;
+    float: 100%;
+background-image: url(../imagenes/movil.jpg);
+color: rgb(22, 22, 20);
 text-align:center ;
 padding:7px ;
+height:100% ;
 

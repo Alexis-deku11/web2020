@@ -1,0 +1,13 @@
+header{
+    background-image: url(../imagenes/movil.jpg);
+} 
+/*cuerpo de pagina*/
+ body{background-color: rgb(209, 205, 200);
+ }
+ /*formulario*/
+ form div{
+     border: black;
+    border-block:black ;
+
+
+ }

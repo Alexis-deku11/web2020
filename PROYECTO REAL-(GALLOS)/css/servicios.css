@@ -1,0 +1,12 @@
+/*mejora del header de mi pagina*/
+header ul {
+    background-image: url(../imagenes/movil.jpg);
+    overflow: hidden;
+    list-style: none;
+}
+
+}
+/*colocar un boton cuando el mause pasa por arriba*/
+header ul a:hover {
+    background:rgb(12, 131, 243);
+}

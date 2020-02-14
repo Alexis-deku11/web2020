@@ -1,7 +1,14 @@
-video {
-    max-width: 90%;
-    height:10%;}
+header{
+    margin-top:10px ;
+}
+
+/*video*/
+section video {
+    width: 60%;
+    height:20px%;}
+    
+
 
     /*botones cuando paso el maus*/
-    header ul a:hover{background-color: chocolate;
+    header ul a:hover{background-color: rgb(30, 123, 210);
         border-radius: 50px;}

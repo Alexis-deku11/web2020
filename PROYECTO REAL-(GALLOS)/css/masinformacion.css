@@ -63,7 +63,7 @@ color: cornsilk;
 }
 
 
-
+/*el pading y el margen de las clases main y articles */
 .main .articles article{
 padding: 20px;
 background: darkgray;

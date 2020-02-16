@@ -1,13 +1,16 @@
   /*index*/
   *{margin: 0px; padding: 0px;}
-/* imagen*/
+/*color al cuerpo de pagina*/
+body{ background: rgba(96, 107, 96, 0.342);}
+
+  /* imagen*/
  header{
      
-
     background-image: url(../imagenes/movil.jpg);
     background: cover;
     background-repeat: no-repeat;
     background-size: 100%auto;
+  
 }
 /*fondo del formulario*/
 form{.... }
@@ -15,35 +18,44 @@ form{.... }
 
 
 header{ width: 100%;
+    margin-top: 10px;
+    margin-left:10px ;
+    margin-right:10px ;
 overflow: hidden;
 background-color: rgb(12, 12, 12);
 margin-bottom: 20px;
 }
-
- header .logo{ color: blanchedalmond;
+ /*fotma a mi logo*/
+ header .logo{ background-image: url(../imagenes/movil.jpg);
+      color: rgb(29, 14, 241);
      font-size: 50px;
      line-height: 200px;
-     float: left;}
+     float: left;
+    }
+     
 
-     header nav{  float: right;
-line-height:200px ;}
-
-header nav a{  display: inline-block;
-    color: blanchedalmond;
+/* color de lista de navegacion*/
+header ul a{  display: inline-block;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     padding: 10px 10px;
     line-height: normal;
-    font-size: 20px;}
+    font-size: 20px;
+    float: right;}
+   
 
 //*botones cuando paso el maus*/
-    header ul a:hover{background-color: chocolate;
-border-radius: 50px;}
+    header ul a:hover{ 
+        background-color: rgb(12, 131, 243);
+        border-radius: 50px;}   }
 
+/*formato del aside*/
+ section aside  nav a {
+     font-size:13px ;}
 
- 
+ section img{ margin-left:10px ; 
+margin-right: 10px;}
 
-
- }
 /*forna del foder*/
  footer{
     float: 100%;
@@ -52,4 +64,3 @@ color: rgb(22, 22, 20);
 text-align:center ;
 padding:7px ;
 height:100% ;
-

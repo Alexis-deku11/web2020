@@ -1,3 +1,60 @@
-header{
-    background-image: url(../imagenes/movil.jpg);
+*{margin:0 ; padding: 0;}
+
+/*color del cuerpo*/
+body{ 
+    background: rgba(96, 107, 96, 0.342);
+background-image: url(....);
+background-repeat: no-repeat;
+background-size:300px ;
+background-position: right;
 }
+
+    
+
+/*header de mi pagina*/
+    header{
+     
+        background-image: url(../imagenes/movil.jpg);
+        background: cover;
+        background-repeat: no-repeat;
+        background-size: 100%auto;}
+
+        /*margen, pagin del header*/
+        header{ width: 100%;
+            margin-top: 10px;
+            margin-left:10px ;
+            margin-right:10px ;
+        overflow: hidden;
+        background-color: rgb(12, 12, 12);
+        margin-bottom: 20px;
+        }
+
+
+/*imagen*/
+section .main .articles{background-image: url(../imagenes/una-ayuda.jpg);
+width:300px ;}
+
+
+        /*color del menu cuando paso el maus*/
+        header ul a:hover{background-color: rgb(12, 131, 243);
+            border-radius: 50px;}
+
+
+        /*tamono de las letras dentro e ul*/
+       
+         span ul{font-size: 12px;
+            color: black;}  
+
+            /*imagen de fondo*/
+section{
+    background-image: url(../imagenes/undraw_develop_app_kvt2.svg  ****);
+    background-repeat: no-repeat;
+ background-position: right top;
+background-attachment: fixed;
+ color: black;}
+
+ /*color del navegador*/
+ header nav ul {color: black;}
+
+ /*parrafos*/
+ 

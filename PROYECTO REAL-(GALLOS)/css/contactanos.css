@@ -1,13 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
 header{
     background-image: url(../imagenes/movil.jpg);
 } 
 /*cuerpo de pagina*/
+
  body{background-color: rgb(209, 205, 200);
- }
+ background-image: url(../imagenes/contactanos.svg);}
  /*formulario*/
+
  form div{
      border: black;
-    border-block:black ;
+    border-block:black ;}
 
+/*color del menu cuando paso el maus*/
+header ul a:hover{background-color: rgb(12, 131, 243);
+    border-radius: 50px;}
+     
 
+    /*imagen */
+    .container{width: 100px;
+        max-width: 1000px;
+margin: auto;
+padding: 60px;
+margin-top: 50px;}
+
+/*elegir la seccion*/
+
+section img{width: 325px;
+    height: 225px;
+float: left;
+margin-right:20px ;
+margin-bottom:20px ;
+}
+ section p{ 
+text-align: justify;
+font: size 18px; ;
+font-weight: 100;
+margin-top:20px ;
  }
+
+
+/*formato del aside*/
+section aside  nav a {
+    font-size:13px ;}
+
+
+ /*forna del foder*/
+ footer{
+    float: 100%;
+background-image: url(../imagenes/movil.jpg);
+color: rgb(22, 22, 20);
+text-align:center ;
+padding:7px ;
+height:100% ;

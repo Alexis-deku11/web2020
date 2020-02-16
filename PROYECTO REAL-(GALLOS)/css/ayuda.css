@@ -9,15 +9,20 @@ background-size:300px ;
 background-position: right;
 }
 
-    
+    /*botones cuando paso el maus*/
+    header ul a:hover{ 
+        background-color: rgb(12, 131, 243);
+        border-radius: 50px;}   }
+
 
 /*header de mi pagina*/
     header{
      
-        background-image: url(../imagenes/movil.jpg);
+       
         background: cover;
         background-repeat: no-repeat;
-        background-size: 100%auto;}
+        background-size: 100%auto;
+    }
 
         /*margen, pagin del header*/
         header{ width: 100%;
@@ -25,8 +30,9 @@ background-position: right;
             margin-left:10px ;
             margin-right:10px ;
         overflow: hidden;
-        background-color: rgb(12, 12, 12);
+       color: black;
         margin-bottom: 20px;
+ background-image: url(../imagenes/movil.jpg);
         }
 
 
@@ -104,3 +110,26 @@ margin-left: 10px;}
 
 
 
+
+
+
+
+
+
+
+
+/*ultima parte de la pagina*/
+
+section aside  nav a {
+    font-size:13px ;}
+
+
+
+/*forna del foder*/
+footer h6{
+    float: 100%;
+background-image: url(../imagenes/movil.jpg);
+color: rgb(22, 22, 20);
+text-align:center ;
+padding:7px ;
+height:100% ;

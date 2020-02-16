@@ -45,7 +45,7 @@ header ul a{  display: inline-block;
    
 
 //*botones cuando paso el maus*/
-    header ul a:hover{ 
+    header  ul a:hover{ 
         background-color: rgb(12, 131, 243);
         border-radius: 50px;}   }
 

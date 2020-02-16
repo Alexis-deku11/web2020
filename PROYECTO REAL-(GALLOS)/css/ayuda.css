@@ -45,7 +45,7 @@ width:300px ;}
          span ul{font-size: 12px;
             color: black;}  
 
-            /*imagen de fondo*/
+            /*imagen de fondo que no se mueve*/
 section{
     background-image: url(../imagenes/undraw_develop_app_kvt2.svg  ****);
     background-repeat: no-repeat;
@@ -56,5 +56,51 @@ background-attachment: fixed;
  /*color del navegador*/
  header nav ul {color: black;}
 
+ /*contenedor */
+  div .contenedor{ width:100% ;
+max-width:1000px ;
+margin: auto;
+padding: 60px;
+margin-top: 50px;
+box-shadow:0px 1px 10px;
+
+
+
+}
+ /*imagen importante*/
+.contenedor img {
+    width: 325px;
+    height: 225px;
+    float: left;
+}
  /*parrafos*/
- 
+.contenedor ul li  {
+  text-align: justify; 
+  font-size: 18px;  
+  font-weight: 100;
+  margin: 7px;
+  text-align: ;
+  margin-left: 10px;}
+
+
+/*listas*/
+div .toyo  {width: 100%;
+ max-width: 1000px; 
+ margin: auto;
+ padding: 60px;
+ margin-top:50px ;}
+
+ .toyo img{width: 325px;
+height: 225px;
+float: right;}
+
+
+.toyo ol li{text-align: justify;
+font-size: 18px;
+font-weight: 100;
+margin: 7px;
+text-align: ; 
+margin-left: 10px;}
+
+
+

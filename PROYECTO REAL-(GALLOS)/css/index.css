@@ -1,6 +1,21 @@
   /*index*/
   *{margin: 0px; padding: 0px;}
+
+
+/*botones cuando paso el maus*/
+header ul a:hover {
+    background-color: rgb(30, 123, 210);
+    border-radius: 50px;
+    padding: 7px;
+    height: 100%;
+    color: black;
+
+} 
+    
+
+
 /*color al cuerpo de pagina*/
+
 body{ background: rgba(96, 107, 96, 0.342);}
 
   /* imagen*/
@@ -44,10 +59,7 @@ header ul a{  display: inline-block;
     float: right;}
    
 
-//*botones cuando paso el maus*/
-    header  ul a:hover{ 
-        background-color: rgb(12, 131, 243);
-        border-radius: 50px;}   }
+ 
 
 /*formato del aside*/
  section aside  nav a {

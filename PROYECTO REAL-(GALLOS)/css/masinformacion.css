@@ -9,13 +9,23 @@ body{
     background-image: url(../imagenes/movil.jpg);
 /*estilos del footer*/
 }
+
+/*botones cuando paso el maus*/
+header ul a:hover {
+    background-color: rgb(12, 131, 243);
+    border-radius: 50px;
+    padding: 7px;
+    height: 100%;
+    color: black;
+}
+
 header,.main,footer{
 background: honeydew;
 width: 90%;
 max-width: 1000px;
-margin: 20px;
+margin: 20px;}
 
-}
+
 
 header ul{
  background: rgb(239, 239, 247);
@@ -32,9 +42,9 @@ header nav ul li a{
 padding: 10px 20px;
 display: block;
 color: linen;
-text-decoration:none ;
+text-decoration:none ;}
 
-}
+
 
 header nav ul li a:hover{
 background: rgb(25, 86, 90);
@@ -71,6 +81,3 @@ margin-bottom: 20px;
 
 }
 
-/*botones cuando paso el maus*/
-header ul a:hover{background-color: rgb(12, 131, 243);
-    border-radius: 50px;}

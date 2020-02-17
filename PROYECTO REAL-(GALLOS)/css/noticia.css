@@ -1,7 +1,29 @@
-header{
-    margin-top:10px ;
-    padding: 10px;
+*{margin: 0;
+padding: 0;}
+
+   /*botones cuando paso el maus*/
+   header ul a:hover {
+       background-color: rgb(30, 123, 210);
+       border-radius: 50px;
+       padding: 7px;
+       height: 100%;
+       color: black;
+   }
+
+/*color al cuerpo de pagina*/
+body {
+    background: rgba(96, 107, 96, 0.342);
 }
+header{
+    margin-top:20px ;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right:20px ;
+background-image: url(../imagenes/movil.jpg);}
+
+ 
+
+
 
 /*video*/
 video {
@@ -11,12 +33,23 @@ position: :center;
 padding:20px ;
 padding top:20px ;
 
-margin-top:10px ;
-}
+margin-top:10px ;}
+
+
+/*formato del aside*/
+section aside nav a {
+    font-size: 13px;}
+
+
+
+/*forna del foder*/
+footer {
+    float: 100%;
+    background-image: url(../imagenes/movil.jpg);
+    color: rgb(22, 22, 20);
+    text-align: center;
+    padding: 7px;
+    height: 100%;}
 
     
 
-
-    /*botones cuando paso el maus*/
-    header ul a:hover{background-color: rgb(30, 123, 210);
-        border-radius: 50px;}

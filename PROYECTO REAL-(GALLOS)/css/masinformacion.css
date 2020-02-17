@@ -32,11 +32,6 @@ header ul{
 overflow: hidden;
 }
 
-header  ul{
-    list-style: none;
-}
-
-}
 
 header nav ul li a{
 padding: 10px 20px;
@@ -60,7 +55,7 @@ margin-right:1.5% ;
 footer{
     float: left;
 background-image: url(../imagenes/movil.jpg);
-color: blanchedalmond;
+color: black;
 text-align:center ;
 padding:7px ;}
    

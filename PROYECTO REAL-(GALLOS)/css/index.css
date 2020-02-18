@@ -24,8 +24,7 @@ body{ background: rgba(96, 107, 96, 0.342);}
     background-image: url(../imagenes/movil.jpg);
     background: cover;
     background-repeat: no-repeat;
-    background-size: 100%auto;
-  
+    
 }
 /*fondo del formulario*/
 form{.... }
@@ -76,3 +75,5 @@ color: rgb(22, 22, 20);
 text-align:center ;
 padding:7px ;
 height:100% ;
+margin-left: 10px;
+margin-right: 10px;}

@@ -40,9 +40,6 @@ background-position: right;
         }
 
 
-/*imagen*/
-
-
         /*color del menu cuando paso el maus*/
         header ul a:hover{background-color: rgb(12, 131, 243);
             border-radius: 50px;
@@ -58,49 +55,20 @@ background-position: right;
             color: black;}  
 
             /*imagen de fondo que no se mueve*/
-section{
-    background-image: url(../imagenes/undraw_develop_app_kvt2.svg  ****);
+div{
+    background-image: url(../imagenes/ayuda000.jpg);
     background-repeat: no-repeat;
- background-position: right top;
+ background-position: right;
 background-attachment: fixed;
  color: black;}
 
  /*color del navegador*/
  header nav ul {color: black;}
 
- /*contenedor */
-  div .contenedor{ width:100% ;
-max-width:1000px ;
-margin: auto;
-padding: 60px;
-margin-top: 50px;
-box-shadow:0px 1px 10px;
-
-
-
-}
- /*imagen importante*/
-.contenedor img {
-    width: 325px;
-    height: 225px;
-    float: left;
-}
- /*parrafos*/
-.contenedor ul li  {
-  
-  font-size: 18px;  
-  font-weight: 100;
-  margin: 7px;
-  text-align: ;
-  margin-left: 10px;}
-
-
 /*ultima parte de la pagina*/
 
 section aside  nav a {
     font-size:13px ;}
-
-
 
 /*forna del foder*/
 footer h6{

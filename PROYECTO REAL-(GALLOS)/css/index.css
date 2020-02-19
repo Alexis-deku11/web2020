@@ -23,15 +23,15 @@ body{ background: rgba(96, 107, 96, 0.342);}
      
     background-image: url(../imagenes/movil.jpg);
     background: cover;
-    background-repeat: no-repeat;
-    
-}
+    background-repeat: no-repeat;}
+  
+
 /*fondo del formulario*/
-form{.... }
+form{margin-right: 10px }
 
 
 
-header{ width: 100%;
+header{ width: ;
     margin-top: 10px;
     margin-left:10px ;
     margin-right:10px ;

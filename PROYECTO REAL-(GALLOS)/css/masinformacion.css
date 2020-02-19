@@ -1,5 +1,5 @@
 *{
-    margin: 0xp;
+    margin: 0px;
     padding: 0px;
 
 }
@@ -9,7 +9,7 @@ body{
     background-image: url(../imagenes/movil.jpg);
 /*estilos del footer*/
 }
-
+ 
 /*botones cuando paso el maus*/
 header ul a:hover {
     background-color: rgb(12, 131, 243);

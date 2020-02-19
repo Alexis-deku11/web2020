@@ -33,13 +33,12 @@ margin-left: 30px;
 margin-right: 30px;}
 
 /*formato del aside*/
-section aside  nav a {
+ aside  nav a {
     font-size:13px ;}
 
 
 /*forna del foder*/
 footer{
-    float: 100%;
     background-color: rgb(19, 226, 226);
     color: rgb(22, 22, 20);
     text-align: center;

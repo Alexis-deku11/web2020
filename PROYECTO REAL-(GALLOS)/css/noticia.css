@@ -27,16 +27,13 @@ background-image: url(../imagenes/movil.jpg);}
 /*video*/
 video {
     width: 60%;
-    height:20px%;
-position: :center; 
+    height:20px; 
 padding:20px ;
-padding top:20px ;
-
-margin-top:10px ;}
+}
 
 
 /*formato del aside*/
-section aside nav a {
+aside nav a {
     font-size: 13px;}
 
 
@@ -53,7 +50,7 @@ div{background-color: burlywood;
 
 /*forna del foder*/
 footer {
-    float: 100%;
+    
     background-image: url(../imagenes/movil.jpg);
     color: rgb(22, 22, 20);
     text-align: center;

@@ -18,7 +18,7 @@ body{background-color: gray ;}
 
 
 .logo {
-    background-color: 03FAEF;
+   
 margin-top: 20px;
 margin-left:10px ;
 margin-right: 10px;}
@@ -49,12 +49,12 @@ p{margin-left:10px ;}
 
 
  /*aside*/
- aside{background;
+ aside{
     width: 24%;
     float: left;
     background: rgb(206, 145, 15);
     color: cornsilk;
-margin-left: ;
+
 margin-right:10px ;}
 
 

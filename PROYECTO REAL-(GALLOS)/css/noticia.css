@@ -27,8 +27,8 @@ background-image: url(../imagenes/movil.jpg);}
 /*video*/
 video {
     width: 60%;
-    height:20px; 
-padding:20px ;
+    margin-left:200px ;
+    background-color: black;
 }
 
 

@@ -29,13 +29,13 @@ margin-right: 10px;
             margin-right:10px ;
         overflow: hidden;
       
-        margin-bottom: 20px;
+        margin-bottom: 10px;
  background-image: url(../imagenes/movil.jpg);
         }
 
 
         /*color del menu cuando paso el maus*/
-        header ul a:hover{background-color: rgb(12, 131, 243);
+        header  ul a:hover{background-color: rgb(12, 131, 243);
             border-radius: 50px;
             padding: 7px;
             height: 100%;

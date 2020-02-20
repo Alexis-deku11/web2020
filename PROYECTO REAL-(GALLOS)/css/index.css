@@ -30,6 +30,8 @@ body{ background: rgba(96, 107, 96, 0.342);}
 form{margin-right: 10px }
 
 
+small,label{font-size:17px ;}
+p{font-size:10px ;}
 
 header{
     margin-top: 10px;
